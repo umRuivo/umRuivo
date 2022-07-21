@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @umRuivo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, I’m @umRuivo 
+- 👀 I’m interested in programming and tecnology 
+- 🌱 I’m currently learning TypeScript
+
+- 📫 How to reach me ... junior@dr.com
 
 <!---
 umRuivo/umRuivo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
