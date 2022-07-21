@@ -12,7 +12,7 @@ This is my roadmap:
 ```mermaid
 graph LR
 EU[Junior Alves] --> LINUX(LINUX USER) -->  BACK(Back-End) 
-BACK --> VPS(VPS) --> DOCKER(DOCKER) 
+BACK --> DOCKER(DOCKER) 
 NODE(Node.js) 
 NODE --> JS(JavaScript) --> AD
 NODE --> TS(TypeScript) --> AD
