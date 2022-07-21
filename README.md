@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 This is my roadmap:
 ```mermaid
 graph LR
-EU[Junior Alves] --> BACK(Back-End) -->  LINUX(LINUX USER)
-LINUX --> VPS(VPS) --> DOCKER(DOCKER) --> 
+EU[Junior Alves] --> LINUX(LINUX USER) -->  BACK(Back-End) 
+BACK --> VPS(VPS) --> DOCKER(DOCKER) 
 NODE(Node.js) 
 NODE --> JS(JavaScript) --> AD
 NODE --> TS(TypeScript) --> AD
@@ -22,7 +22,7 @@ DOCKER --> SQL((SQLite)) -->  ORM
 DOCKER --> MYSQL((MySql)) -->  ORM
 DOCKER --> POST((Postgresql)) -->  ORM
 DOCKER --> MONGO((MongoDB)) -->  ORM
-EU --> FRONT(Front-End)
+LINUX --> FRONT(Front-End)
 API --> GIT(Git - Gitlab - Github) --> END{Task done}
 
 FRONT --> HTML(HTML) --> VIEW(VIEW)
