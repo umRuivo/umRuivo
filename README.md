@@ -18,6 +18,7 @@ NODE --> JS(JavaScript) --> AD
 NODE --> TS(TypeScript) --> AD
 AD(Adonis.js / Express.js) --> API(API Rest)
 NODE --> ORM(ORM - BD) --> AD
+DOCKER --> NODE
 DOCKER --> SQL((SQLite)) -->  ORM
 DOCKER --> MYSQL((MySql)) -->  ORM
 DOCKER --> POST((Postgresql)) -->  ORM
