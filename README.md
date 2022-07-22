@@ -26,7 +26,7 @@ DOCKER --> MONGO((MongoDB)) -->  ORM
 LINUX --> FRONT(Front-End)
 API --> GIT(Git - Gitlab - Github) --> END{Task done}
 
-FRONT --> HTML(HTML) --> VIEW(VIEW)
+FRONT --> HTML(HTML) --> VIEW(VIEW / SPA)
 FRONT --> JSF(JavaScript) --> VIEW
 FRONT --> CSS(CSS) --> VIEW
 CSS  --> BOOTSTRAP(BOOTSTRAP) --> VIEW
