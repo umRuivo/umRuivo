@@ -16,7 +16,7 @@ BACK --> DOCKER(DOCKER)
 NODE(Node.js) 
 NODE --> JS(JavaScript) --> AD
 NODE --> TS(TypeScript) --> AD
-AD(Adonis.js / Express.js) --> API(API Rest)
+AD(Express.js) --> API(API Rest)
 NODE --> ORM(ORM - Prisma.js) --> AD
 DOCKER --> NODE
 DOCKER --> SQL((SQLite)) -->  ORM
